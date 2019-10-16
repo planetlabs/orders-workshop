@@ -1,0 +1,9 @@
+{
+  "amazon_s3": {
+    "bucket": "<YOUR BUCKET>",
+    "aws_region": "<AWS REGION>",
+    "aws_secret_access_key": "<REDACTED>",
+    "aws_access_key_id": "<REDACTED>",
+    "path_prefix": "2019-planet-explore-conference/"
+  }
+}
