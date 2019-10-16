@@ -45,7 +45,7 @@
   {
     "reproject": {
       "kernel": "cubic",
-      "projection": "WGS84"
+      "projection": "EPSG:4326"
     }
   },
   {
